@@ -1,3 +1,4 @@
 source :rubygems
 
-gem "json", "1.0.0"
+# This change was made via Snyk to fix a vulnerability
+gem "json", ">= 2.0.3"
