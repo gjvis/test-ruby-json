@@ -1,3 +1,3 @@
 source :rubygems
 
-gem "json", "1.0.0"
+gem "json", "1.5.5"
